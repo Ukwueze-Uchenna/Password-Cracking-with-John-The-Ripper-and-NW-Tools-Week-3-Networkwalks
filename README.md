@@ -93,14 +93,14 @@ protection.
 ```
 ---
 
-# 🎯 Task
+# 🎯 Task 1
 
 Crack the password of attached PDF file (My Locked PDF1.pdf) using JTR John and JTR Johnny tools on your Windows PC.
 
 ---
 ---
 
-## Step 1: Download and Install John and Johnny
+## Step 1.1: Download and Install John and Johnny
 
 John The Ripper and Johnny (GUI) were both downloaded and installed
 
@@ -108,17 +108,43 @@ John The Ripper and Johnny (GUI) were both downloaded and installed
 
 ---
 
-## Step 2: Obtain the PDF file
+## Step 1.2: Obtain the PDF file
 
 The PDF file to be cracked, that is, My Locked PDF1.pdf, was provided by the instructor at Networkwalks
 
 ---
 
-## Step 3: Extract the PDF Hash
+## Step 1.3: Extract the PDF Hash
 
-The PDF file (My Locked PDF1.pdf) was uploaded
+The PDF file (My Locked PDF1.pdf) was uploaded the PDF Hash Extractor (OnlineHashCrack), processed, and its Hash was subsequently obtained 
 
 <img width="1920" height="1013" alt="Johnny3" src="https://github.com/user-attachments/assets/724d82c3-6c12-4015-ba94-a34468b2bff0" />
+
+---
+
+## Step 1.4: Create the Hash File
+
+The extracted hash was saved into a text file on my Notepad and named:
+
+```text
+Hash1.txt
+```
+
+---
+
+## Step 1.5: Initiate Password Recovery Process
+
+The hash saved in the text file ```Hash1.txt``` was loaded into Johnny. And by clicking on ```start new attack```, the password recovery process was initiated for the PDF file (My Locked PDF1.pdf) to be cracked.
+
+> 🚦 **Note: The cracking process might take some time depending on:
+```text
+i. Your computer speed
+ii. The password complexity
+```
+**
+
+
+
 
 <img width="1920" height="1025" alt="Johnny4cracked" src="https://github.com/user-attachments/assets/ec87e939-89ee-4665-bf95-256f950c8e5e" />
 
