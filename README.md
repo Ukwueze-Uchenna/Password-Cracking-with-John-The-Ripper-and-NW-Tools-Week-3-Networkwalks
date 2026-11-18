@@ -91,7 +91,38 @@ In this lab task I used JTR John and JTR Johnny to recover the password of a pro
 exercise helped me learn how password cracking works and why it is important to use strong passwords for 
 protection.
 ```
+---
 
+# 🎯 Task
+
+Crack the password of attached PDF file (My Locked PDF1.pdf) using JTR John and JTR Johnny tools on your Windows PC.
+
+---
+---
+
+## Step 1: Download and Install John and Johnny
+
+John The Ripper and Johnny (GUI) were both downloaded and installed
+
+<img width="1920" height="1027" alt="Johnny1" src="https://github.com/user-attachments/assets/f2d19d3e-045d-4b2a-acc9-6a1ca9060c29" />
+
+---
+
+## Step 2: Obtain the PDF file
+
+The PDF file to be cracked, that is, My Locked PDF1.pdf, was provided by the instructor at Networkwalks
+
+---
+
+## Step 3: Extract the PDF Hash
+
+The PDF file (My Locked PDF1.pdf) was uploaded
+
+<img width="1920" height="1013" alt="Johnny3" src="https://github.com/user-attachments/assets/724d82c3-6c12-4015-ba94-a34468b2bff0" />
+
+<img width="1920" height="1025" alt="Johnny4cracked" src="https://github.com/user-attachments/assets/ec87e939-89ee-4665-bf95-256f950c8e5e" />
+
+<img width="1920" height="1029" alt="Johnny5" src="https://github.com/user-attachments/assets/bae3b2ad-15d8-452e-ba5b-f8e43e846fda" />
 
 
 
