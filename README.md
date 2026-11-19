@@ -210,7 +210,7 @@ The tool read the file and gave me a hash value that starts with ```$pdf$```.
 
 ---
 
-## Step 2.1: Networkwalks Password Cracker
+## Step 2.2: Networkwalks Password Cracker
 
 The Networkwalks Password Cracker was opened in my web browser, and the hash value I previously copied was pasted into it.
 
@@ -218,11 +218,13 @@ The Networkwalks Password Cracker was opened in my web browser, and the hash val
 
 ---
 
-The attack was subsequently started by clicking ```start cracking```. The tool will try different passwords until it finds a match.
+The attack was subsequently started by clicking ```start cracking```. The tool will try different passwords until it finds a match, and the cracked password will be displayed on the screen.
 
 <img width="1920" height="1080" alt="module2c" src="https://github.com/user-attachments/assets/916feccc-fdf5-4dc1-9d30-58213b2d888d" />
 
 ---
+
+
 
 
 
