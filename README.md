@@ -129,6 +129,7 @@ The extracted hash was saved into a text file on my Notepad and named:
 ```text
 Hash1.txt
 ```
+<img width="968" height="576" alt="Hash1" src="https://github.com/user-attachments/assets/9bd6d711-dbff-4021-95e1-f5ee4ff043c5" />
 
 ---
 
@@ -136,19 +137,33 @@ Hash1.txt
 
 The hash saved in the text file ```Hash1.txt``` was loaded into Johnny. And by clicking on ```start new attack```, the password recovery process was initiated for the PDF file (My Locked PDF1.pdf) to be cracked.
 
-> 🚦 **Note: The cracking process might take some time depending on:
+🚦 Note: The cracking process might take some time depending on:
 ```text
 i. Your computer speed
 ii. The password complexity
 ```
-**
 
+---
 
+## Step 1.6: Get the Recovered Password
 
+The password was successfully cracked by Johnny to be ```"good-luck"```.
 
 <img width="1920" height="1025" alt="Johnny4cracked" src="https://github.com/user-attachments/assets/ec87e939-89ee-4665-bf95-256f950c8e5e" />
 
+---
+
+## Step 1.7: Verify the Recovered Password
+
+The recovered password was used to open the PDF file ```My Locked PDF1.pdf```.
+
 <img width="1920" height="1029" alt="Johnny5" src="https://github.com/user-attachments/assets/bae3b2ad-15d8-452e-ba5b-f8e43e846fda" />
+
+---
+
+---
+
+
 
 
 
