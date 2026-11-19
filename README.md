@@ -206,7 +206,7 @@ The tool read the file and gave me a hash value that starts with ```$pdf$```.
 
 <img width="1920" height="1080" alt="module2a" src="https://github.com/user-attachments/assets/251df170-7019-46a4-b0b0-4182eb3f02c1" />
 
-> **Note: The full has value was copied**
+> **Note: The full hash value was copied**
 
 ---
 
