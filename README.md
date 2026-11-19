@@ -244,7 +244,7 @@ The PDF file opens, and my lab is completed.
 
 ---
 
-# 👌 15. Recommendations
+# 👌Recommendations
 
 ### I. Use strong and unique Passwords:
 
@@ -260,6 +260,34 @@ Secure password hashes and credential databases against unauthorized access.
 
 ---
 
+## 📌 Project Information
+
+| **Project Details** | **Information** |
+|---|---|
+| 1️⃣ **Program Name** | Cybersecurity Program at Networkwalks            |
+| 2️⃣ **Week**         | 02                                               |
+| 3️⃣ **Project:**     | Authorized Penetration Testing Report            |
+| 4️⃣ **Repository:**  | GitHub                                           |
+
+---
+
+<div align="center">
+  
+# 👤 Author
+
+</div>
+
+<div align="center">
+  
+**Ukwueze Uchenna Collins**
+
+**Cybersecurity Intern | Networkwalks | Batch B084**
+
+LinkedIn: www.linkedin.com/in/uchenna-u-6b4377367
+
+</div>
+
+---
 
 
 
