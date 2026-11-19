@@ -256,15 +256,7 @@ Enable MFA wherever supported to add a layer of protection beyond the password.
 
 ### V. Protect Stored Credentials
 
-Organizations should securely store password-related data and prevent unauthorized access to credential databases.
-
-### VI. Use Modern Password-Storage Mechanisms
-
-Production systems should use appropriate password hashing and key-stretching mechanisms rather than storing passwords directly.
-
-### VII Perform Authorized Password Audits
-
-Organizations should periodically evaluate password security through authorized security assessments.
+Secure password hashes and credential databases against unauthorized access.
 
 ---
 
