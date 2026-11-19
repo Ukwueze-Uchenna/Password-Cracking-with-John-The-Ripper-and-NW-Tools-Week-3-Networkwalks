@@ -93,11 +93,12 @@ protection.
 ```
 ---
 
+---
+
 # 🎯 Task 1
 
-Crack the password of attached PDF file (My Locked PDF1.pdf) using JTR John and JTR Johnny tools on your Windows PC.
+Crack the password of attached PDF file ```(My Locked PDF1.pdf)``` using ```JTR John and JTR Johnny tools``` on your Windows PC.
 
----
 ---
 
 ## Step 1.1: Download and Install John and Johnny
@@ -119,6 +120,9 @@ The PDF file to be cracked, that is, My Locked PDF1.pdf, was provided by the ins
 The PDF file (My Locked PDF1.pdf) was uploaded the PDF Hash Extractor (OnlineHashCrack), processed, and its Hash was subsequently obtained 
 
 <img width="1920" height="1013" alt="Johnny3" src="https://github.com/user-attachments/assets/724d82c3-6c12-4015-ba94-a34468b2bff0" />
+
+> 💡 **Note: Encryption is a two-way function; what is encrypted can be decrypted with the proper key. Hashing, however, is 
+a one-way function that scrambles plain text to produce a unique message digest, as shown in above.**
 
 ---
 
@@ -163,6 +167,36 @@ The recovered password was used to open the PDF file ```My Locked PDF1.pdf```.
 
 ---
 
+# 2️⃣  Wk3-PM 2: Password Cracking with Networkwalks Hash Calculator and Networkwalks Password Cracker
+
+---
+
+# 🏁 Background
+
+```text
+Password cracking is the process of recovering a password from stored data or a protected file. Security 
+professionals use it to test how strong a password is and to show why weak passwords are risky. If a 
+password is short or common, it can be found quickly, which proves the need for strong passwords. 
+Many files like PDF, ZIP, and Office documents can be locked with a password. When a file is locked, its 
+password is stored in the form of a hash. A hash is a scrambled value that represents the password. To 
+recover the password, we first take out this hash from the file, and then run it through a cracking tool that 
+tries different words until it finds a match. 
+In this lab you will use two free online tools made by Networkwalks. First you will use the Hash Calculator 
+to take the hash out of a locked PDF file. Then you will use the Password Cracker to find the real password 
+from that hash. Both tools run in your web browser, so you do not need to install anything. 
+This lab helps you understand how password cracking works step by step and why strong passwords are 
+important for protection.
+```
+
+---
+
+
+
+# 🎯 Task 2
+
+Crack the password of attached PDF file ```(My Locked PDF1 For NW Tools.pdf)``` using ```Networkwalks Hash Calculator``` and ```Networkwalks Password Cracker``` tools on your Windows PC browser.
+
+---
 
 
 
