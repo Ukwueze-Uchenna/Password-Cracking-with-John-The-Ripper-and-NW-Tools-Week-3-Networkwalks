@@ -250,7 +250,7 @@ During week 3 of my Cybersecurity & Ethical Hacking internship at Networkwalks A
 
 The first module provided hands-on experience with John the Ripper and Johnny.
 
-The second module provided practical experience with the Networkwalks Hash Calculator and Networkwalks Password Cracker, demonstrating a browser-based approach to the same general password-security workflow.
+The second module provided practical experience with the Networkwalks Hash Calculator and Networkwalks Password Cracker, demonstrating a browser-based approach to the same general password cracking processs.
 
 ---
 
@@ -258,7 +258,7 @@ The second module provided practical experience with the Networkwalks Hash Calcu
 
 ### I. Use strong and unique Passwords:
 
-Use long, hard-to-predict Passwords and never reuse them across systems; a password manager can generate and store them securely.
+Use long and hard to predict passwords and never re-use them across systems; a password manager can generate and store them securely.
 
 ### II. Multi-factor authentication:
 
