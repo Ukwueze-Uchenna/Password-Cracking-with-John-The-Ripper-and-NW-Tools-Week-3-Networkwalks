@@ -246,23 +246,15 @@ The PDF file opens, and my lab is completed.
 
 # 👌 15. Recommendations
 
-### I. Use Strong Passwords
+### I. Strong, unique Passwords:
 
-Passwords should be long, unique, and difficult to predict.
+Use long, hard-to-predict Passwords and never reuse them across systems; a password manager can generate and store them securely.
 
-### II. Avoid Password Reuse
+### II. Multi-factor authentication:
 
-Users should avoid reusing the same password across multiple systems or services.
+Enable MFA wherever supported to add a layer of protection beyond the password.
 
-### III. Use Password Managers
-
-Password managers can assist users in generating and securely storing unique credentials.
-
-### IV. Implement Multi-Factor Authentication
-
-Where supported, MFA should be enabled to provide an additional authentication layer beyond passwords.
-
-### V. Protect Password Hashes
+### V. Protect Stored Credentials
 
 Organizations should securely store password-related data and prevent unauthorized access to credential databases.
 
