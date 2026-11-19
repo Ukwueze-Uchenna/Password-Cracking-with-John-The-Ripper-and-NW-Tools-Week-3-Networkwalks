@@ -206,7 +206,7 @@ The tool read the file and gave me a hash value that starts with ```$pdf$```.
 
 <img width="1920" height="1080" alt="module2a" src="https://github.com/user-attachments/assets/251df170-7019-46a4-b0b0-4182eb3f02c1" />
 
-> **Note: The full hash value was copied**
+> 🚦 **Note: The full hash value was copied**
 
 ---
 
@@ -222,8 +222,17 @@ The attack was subsequently started by clicking ```start cracking```. The tool w
 
 <img width="1920" height="1080" alt="module2c" src="https://github.com/user-attachments/assets/916feccc-fdf5-4dc1-9d30-58213b2d888d" />
 
+> 🚦 **Note: The time taken depends on how simple or complex the password is.**
+
 ---
 
+## Step 2.2: Enter the Cracked Password
+
+I Opened the locked PDF file and entered the cracked password I just discovered. 
+
+<img width="1920" height="1080" alt="Module2d" src="https://github.com/user-attachments/assets/8782e8e4-75f8-4c45-8c9f-dd9e8660c527" />
+
+<img width="1920" height="1080" alt="Module2e" src="https://github.com/user-attachments/assets/c3fd0ab2-7391-49b2-ab1f-8796e577820c" />
 
 
 
