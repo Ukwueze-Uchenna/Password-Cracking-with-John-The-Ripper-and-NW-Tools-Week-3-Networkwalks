@@ -68,7 +68,6 @@ This report is part of my Cybersecurity and Ethical Hacking internship program f
 
 - Wk3-Project Module 1 - Focuses on Password Cracking with John The Ripper (JTR) 
 - Wk3-Project Module 2 - Focuses on Password Cracking with Tools Provided by Networkwalks
-- Additional Password Cracking Tasks
 ```
 
 ---
@@ -190,8 +189,6 @@ important for protection.
 
 ---
 
-
-
 # 🎯 Task 2
 
 Crack the password of attached PDF file ```(My Locked PDF1 For NW Tools.pdf)``` using ```Networkwalks Hash Calculator``` and ```Networkwalks Password Cracker``` tools on your Windows PC browser.
@@ -228,7 +225,7 @@ The attack was subsequently started by clicking ```start cracking```. The tool w
 
 ## Step 2.2: Open the Locked PDF file and Enter the Cracked Password
 
-I opened the locked PDF file and entered the cracked password I just discovered. 
+I opened the locked PDF file and entered the cracked password which I just discovered. 
 
 That is, ```password1``` (which I have just cracked): 
 
@@ -242,6 +239,48 @@ That is, ```password1``` (which I have just cracked):
 The PDF file opens, and my lab is completed. 
 
 <img width="1920" height="1080" alt="Module2e" src="https://github.com/user-attachments/assets/c3fd0ab2-7391-49b2-ab1f-8796e577820c" />
+
+---
+
+---
+
+# 👌 15. Recommendations
+
+### 1️⃣ Use Strong Passwords
+
+Passwords should be long, unique, and difficult to predict.
+
+### 2️⃣ Avoid Password Reuse
+
+Users should avoid reusing the same password across multiple systems or services.
+
+### 3️⃣ Use Password Managers
+
+Password managers can assist users in generating and securely storing unique credentials.
+
+### 4️⃣ Implement Multi-Factor Authentication
+
+Where supported, MFA should be enabled to provide an additional authentication layer beyond passwords.
+
+### 5️⃣ Protect Password Hashes
+
+Organizations should securely store password-related data and prevent unauthorized access to credential databases.
+
+### 6️⃣ Use Modern Password-Storage Mechanisms
+
+Production systems should use appropriate password hashing and key-stretching mechanisms rather than storing passwords directly.
+
+### 7️⃣ Perform Authorized Password Audits
+
+Organizations should periodically evaluate password security through authorized security assessments.
+
+### 8️⃣ Monitor Credential Exposure
+
+Organizations should monitor for exposed credentials and take appropriate action when compromise is suspected.
+
+### 9️⃣ Document Security Testing
+
+Security assessments should maintain clear evidence of scope, procedures, observations, and results.
 
 ---
 
