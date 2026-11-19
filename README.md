@@ -264,10 +264,10 @@ Secure password hashes and credential databases against unauthorized access.
 
 | **Project Details** | **Information** |
 |---|---|
-| 1️⃣ **Program Name** | Cybersecurity Program at Networkwalks            |
-| 2️⃣ **Week**         | 02                                               |
-| 3️⃣ **Project:**     | Authorized Penetration Testing Report            |
-| 4️⃣ **Repository:**  | GitHub                                           |
+| 1️⃣ **Program Name** | Cybersecurity Ethical Hacking Program at Networkwalks                |
+| 2️⃣ **Week**         | 03                                                                   |
+| 3️⃣ **Project:**     | PASSWORD CRACKING WITH JOHN THE RIPPER & NETWORKWALK TOOLS           |
+| 4️⃣ **Repository:**  | GitHub                                                               |
 
 ---
 
