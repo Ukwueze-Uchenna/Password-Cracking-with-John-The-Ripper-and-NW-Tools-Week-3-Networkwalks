@@ -246,41 +246,33 @@ The PDF file opens, and my lab is completed.
 
 # 👌 15. Recommendations
 
-### 1️⃣ Use Strong Passwords
+### I. Use Strong Passwords
 
 Passwords should be long, unique, and difficult to predict.
 
-### 2️⃣ Avoid Password Reuse
+### II. Avoid Password Reuse
 
 Users should avoid reusing the same password across multiple systems or services.
 
-### 3️⃣ Use Password Managers
+### III. Use Password Managers
 
 Password managers can assist users in generating and securely storing unique credentials.
 
-### 4️⃣ Implement Multi-Factor Authentication
+### IV. Implement Multi-Factor Authentication
 
 Where supported, MFA should be enabled to provide an additional authentication layer beyond passwords.
 
-### 5️⃣ Protect Password Hashes
+### V. Protect Password Hashes
 
 Organizations should securely store password-related data and prevent unauthorized access to credential databases.
 
-### 6️⃣ Use Modern Password-Storage Mechanisms
+### VI. Use Modern Password-Storage Mechanisms
 
 Production systems should use appropriate password hashing and key-stretching mechanisms rather than storing passwords directly.
 
-### 7️⃣ Perform Authorized Password Audits
+### VII Perform Authorized Password Audits
 
 Organizations should periodically evaluate password security through authorized security assessments.
-
-### 8️⃣ Monitor Credential Exposure
-
-Organizations should monitor for exposed credentials and take appropriate action when compromise is suspected.
-
-### 9️⃣ Document Security Testing
-
-Security assessments should maintain clear evidence of scope, procedures, observations, and results.
 
 ---
 
