@@ -226,13 +226,26 @@ The attack was subsequently started by clicking ```start cracking```. The tool w
 
 ---
 
-## Step 2.2: Enter the Cracked Password
+## Step 2.2: Open the Locked PDF file and Enter the Cracked Password
 
-I Opened the locked PDF file and entered the cracked password I just discovered. 
+I opened the locked PDF file and entered the cracked password I just discovered. 
+
+That is, ```password1``` (which I have just cracked): 
+
 
 <img width="1920" height="1080" alt="Module2d" src="https://github.com/user-attachments/assets/8782e8e4-75f8-4c45-8c9f-dd9e8660c527" />
 
+---
+
+## Step 2.2: PDF file Opens
+
+The PDF file opens, and my lab is completed. 
+
 <img width="1920" height="1080" alt="Module2e" src="https://github.com/user-attachments/assets/c3fd0ab2-7391-49b2-ab1f-8796e577820c" />
+
+---
+
+
 
 
 
