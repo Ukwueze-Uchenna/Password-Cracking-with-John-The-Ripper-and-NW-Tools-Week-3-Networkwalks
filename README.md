@@ -246,11 +246,11 @@ The PDF file opens, and my lab is completed.
 
 # 🛡️ Conclusion
 
-During **Week 3 of my Cybersecurity & Ethical Hacking internship at Networkwalks Academy**, I completed practical exercises focused on **password security, hash analysis, password recovery, and protected-file security testing**.
+During week 3 of my Cybersecurity & Ethical Hacking internship at Networkwalks Academy, I gained hands-on practical experience by completing lab/practical exercises focused on **password cracking, hash analysis, hash extraction, and password security.
 
-The first module provided hands-on experience with **John the Ripper and Johnny**, including PDF hash extraction, hash-file preparation, password recovery, and verification.
+The first module provided hands-on experience with John the Ripper and Johnny.
 
-The second module provided practical experience with the **Networkwalks Hash Calculator and Password Cracker**, demonstrating a browser-based approach to the same general password-security workflow.
+The second module provided practical experience with the Networkwalks Hash Calculator and Networkwalks Password Cracker, demonstrating a browser-based approach to the same general password-security workflow.
 
 ---
 
@@ -274,9 +274,9 @@ Secure password hashes and credential databases against unauthorized access.
 
 | **Project Details** | **Information** |
 |---|---|
-| 1️⃣ **Program Name** | Cybersecurity Ethical Hacking Program at Networkwalks                |
+| 1️⃣ **Program Name** | Cybersecurity & Ethical Hacking Program at Networkwalks              |
 | 2️⃣ **Week**         | 03                                                                   |
-| 3️⃣ **Project:**     | PASSWORD CRACKING WITH JOHN THE RIPPER & NETWORKWALK TOOLS           |
+| 3️⃣ **Project:**     | Psssword Cracking with John the Ripper & Networkwalks Tool           |
 | 4️⃣ **Repository:**  | GitHub                                                               |
 
 ---
