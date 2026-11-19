@@ -246,7 +246,7 @@ The PDF file opens, and my lab is completed.
 
 # 👌 15. Recommendations
 
-### I. Strong, unique Passwords:
+### I. Use strong and unique Passwords:
 
 Use long, hard-to-predict Passwords and never reuse them across systems; a password manager can generate and store them securely.
 
