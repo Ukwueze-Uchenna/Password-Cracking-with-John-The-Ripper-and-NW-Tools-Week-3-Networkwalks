@@ -196,7 +196,7 @@ important for protection.
 
 Crack the password of attached PDF file ```(My Locked PDF1 For NW Tools.pdf)``` using ```Networkwalks Hash Calculator``` and ```Networkwalks Password Cracker``` tools on your Windows PC browser.
 
----#
+---
 
 ## Step 2.1: Networkwalks Hash Calculator
 
